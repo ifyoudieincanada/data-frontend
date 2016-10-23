@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">payme_dateme</string>
+
+    <string name="title_activity_splash">splash</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">PayMe\nDateMe</string>
+
+    <string name="title_activity_signup_fullscreen">signup_fullscreen</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+</resources>
